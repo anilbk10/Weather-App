@@ -1,0 +1,15 @@
+.infoBox{
+    text-align: center;
+}
+.cardContainer{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.detials{
+    opacity:0.7;
+
+    font-size: 15px;
+}
+
